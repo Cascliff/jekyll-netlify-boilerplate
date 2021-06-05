@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another post
-author: john_doe
+author: casper_cliff
 date: '2018-07-06 12:00:00'
 categories: misc
 ---
